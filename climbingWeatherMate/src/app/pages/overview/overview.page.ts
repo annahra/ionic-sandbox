@@ -1,6 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { Geolocation } from '@ionic-native/geolocation/ngx';
-import { Platform, LoadingController } from '@ionic/angular';
+import { Platform, LoadingController, AlertController, IonSlides } from '@ionic/angular';
 import { WeatherService } from 'src/app/services/weather.service';
 import { forkJoin } from 'rxjs';
 
@@ -11,6 +11,7 @@ import { forkJoin } from 'rxjs';
 })
 export class OverviewPage implements OnInit {
 
+  @ViewChild('slides') slides: IonSlides;
   entries = [];
   units = this.weatherService.getUnits();
   loading = false;
@@ -22,7 +23,8 @@ export class OverviewPage implements OnInit {
   }
 
   constructor(private geolocation: Geolocation, private platform: Platform,
-    private weatherService: WeatherService, private loadingCtrl: LoadingController) { }
+    private weatherService: WeatherService, private loadingCtrl: LoadingController,
+    private alertCtrl: AlertController) { }
 
   ngOnInit() {
     this.platform.ready().then(() => {
@@ -127,6 +129,42 @@ export class OverviewPage implements OnInit {
     } else {
       return new Promise((resolve) => { resolve(null)});
     }
+  }
+
+  async addCity() {
+    let alert = await this.alertCtrl.create({
+      header: 'Add City',
+      inputs: [
+        {
+          name: 'name',
+          type: 'text',
+          placeholder: 'New York'
+        }
+      ], buttons: [
+        {
+          text: 'Cancel',
+          role: 'cancel'
+        },
+        {
+          text: 'Add City',
+          handler: (data) => {
+            let city = { type: 'city', val: data.name, nextDays: [], id: new Date().getTime(), class: 'cold' };
+            this.entries.push(city);
+
+            setTimeout(() => {
+              this.slides.slideTo(this.entries.length, 200);
+            }, 300);
+          }
+        }
+      ]
+    });
+    alert.present();
+  }
+
+  cityChanged() {
+    this.slides.getActiveIndex().then(index => {
+      this.loadWeather(index);
+    })
   }
 
 }
