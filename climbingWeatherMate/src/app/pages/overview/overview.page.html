@@ -20,8 +20,8 @@
           </ion-col>
         </ion-row>
 
-        <ion-list inset="false" lines="inset">
-          <ion-item>
+        <ion-list inset="true" lines="inset">
+          <ion-item class="fc-line">
             <ion-icon name="sunny" slot="start"></ion-icon>
             <ion-label>
               Sunrise
@@ -56,13 +56,19 @@
       </div>
 
       <ion-slides [options]="sliderConfig" *ngIf="place.forecast" class="forecast">
+        <ion-slide *ngFor="let fc of place.forecast?.list">
+          <app-hour-block [data]="fc" [units]="units" class="ion-text-center"></app-hour-block>
+        </ion-slide>
+      </ion-slides>
+
+      <!-- <ion-slides [options]="sliderConfig" *ngIf="place.forecast" class="forecast">
         <ion-slide *ngFor="let fc of place.forecast?.list" class="ion-text-center">
           {{ fc.dt*1000 | date:'MM/dd'}}<br>
           {{ fc.dt*1000 | date:'hh a'}}
           <img [src]="getWeatherIcon(fc.weather[0]?.icon)">
           {{ fc.main.temp.toFixed() }} {{ getUnitsString()}}
         </ion-slide>
-      </ion-slides>
+      </ion-slides> -->
 
     </ion-slide>
   </ion-slides>
