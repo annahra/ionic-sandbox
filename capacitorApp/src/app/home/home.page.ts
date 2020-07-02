@@ -1,18 +1,37 @@
-import { Component } from '@angular/core';
-import { Plugins, CameraResultType } from '@capacitor/core';
+import { Component, AfterViewInit } from '@angular/core';
+import { Plugins, CameraResultType, Capacitor } from '@capacitor/core';
 import { DomSanitizer } from '@angular/platform-browser';
-const { Browser, Camera } = Plugins;
+const { Browser, Camera, YoutubePlayer } = Plugins;
+import { YoutubePlayerWeb } from 'capacitor-youtube-player';
 
 @Component({
   selector: 'app-home',
   templateUrl: 'home.page.html',
   styleUrls: ['home.page.scss'],
 })
-export class HomePage {
+export class HomePage implements AfterViewInit{
 
   image = null;
 
   constructor(private sanitizer: DomSanitizer) {}
+
+  ngAfterViewInit() {
+    if(Capacitor.platform == 'web') {
+      this.initializeYoutubePlayerPluginWeb();
+    } else {
+      this.initializeYoutubePlayerPluginNative();
+    }
+  }
+
+  async initializeYoutubePlayerPluginWeb() {
+    const options = { playerId: 'youtube-player', playerSize: {width: 640, height: 360}, videoId: 'tzAAwo5tHOU' };
+    const result = await YoutubePlayerWeb.initialize(options);
+  }
+
+  async initializeYoutubePlayerPluginNative() {
+    const options = { width: 640, height: 360, videoId: 'tzAAwo5tHOU' };
+    const playerReady = await YoutubePlayer.initialize(options);
+  }
 
   async openBrowser() {
     await Browser.open({url: "https://ionicframework.com" })
