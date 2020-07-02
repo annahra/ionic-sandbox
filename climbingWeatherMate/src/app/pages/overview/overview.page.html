@@ -13,7 +13,7 @@
   </ion-fab>
 
   <ion-slides #slides (ionSlideWillChange)="cityChanged()" pager="true">
-    <ion-slide *ngFor="let place of entries">
+    <ion-slide *ngFor="let place of entries; let i = index; ">
       <div *ngIf="place.weather">
         <h3 text-center>{{ place.weather.name }}</h3>
 
@@ -88,6 +88,11 @@
           </span>
         </ion-item>
       </ion-list>
+
+      <ion-button class="ion-text-center" fill="outline" color="danger" (click)="removeCity(i)" *ngIf="i != 0">
+        <ion-icon name="trash" slot="start"></ion-icon>
+        Remove City
+      </ion-button>
 
     </ion-slide>
   </ion-slides>
