@@ -5,14 +5,20 @@
 </ion-header>
 
 <ion-content>
-  <ion-slides pager="true" #slides scrollbar="true">
+  <ion-slides pager="true" #slides>
     <ion-slide *ngFor="let place of entries">
       <div *ngIf="place.weather">
         <h3 text-center>{{ place.weather.name }}</h3>
 
         <p text-center text-capitalize>{{ place.weather.weather[0]?.description }}</p>
         
-        <h2 text-center>{{ place.weather.main.temp.toFixed() }} °F</h2>
+        <h2 text-center tappable (click)="changeUnits()">{{ place.weather.main.temp.toFixed() }} {{ getUnitsString() }}</h2>
+
+        <ion-row class="ion-justify-content-center">
+          <ion-col size="3">
+            <img [src]="getWeatherIcon(place.weather.weather[0]?.icon)">
+          </ion-col>
+        </ion-row>
 
         <ion-list inset="false" lines="inset">
           <ion-item>
