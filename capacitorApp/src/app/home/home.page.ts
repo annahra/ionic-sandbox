@@ -3,6 +3,7 @@ import { Plugins, CameraResultType, Capacitor } from '@capacitor/core';
 import { DomSanitizer } from '@angular/platform-browser';
 const { Browser, Camera, YoutubePlayer } = Plugins;
 import { YoutubePlayerWeb } from 'capacitor-youtube-player';
+import { OpenNativeSettings } from "@ionic-native/open-native-settings/ngx";
 
 @Component({
   selector: 'app-home',
@@ -13,7 +14,7 @@ export class HomePage implements AfterViewInit{
 
   image = null;
 
-  constructor(private sanitizer: DomSanitizer) {}
+  constructor(private sanitizer: DomSanitizer, private openNativeSettings: OpenNativeSettings) {}
 
   ngAfterViewInit() {
     if(Capacitor.platform == 'web') {
@@ -50,6 +51,10 @@ export class HomePage implements AfterViewInit{
     // if desired (or pass resultType: CameraResultType.Base64 to getPhoto)
     this.image = this.sanitizer.bypassSecurityTrustResourceUrl(image && image.webPath);
 
+  }
+
+  openSettings() {
+    this.openNativeSettings.open('wifi');
   }
 
 }
