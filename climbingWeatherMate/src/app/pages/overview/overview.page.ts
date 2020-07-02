@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Geolocation } from '@ionic-native/geolocation/ngx';
 import { Platform } from '@ionic/angular';
+import { WeatherService } from 'src/app/services/weather.service';
 
 @Component({
   selector: 'app-overview',
@@ -9,14 +10,27 @@ import { Platform } from '@ionic/angular';
 })
 export class OverviewPage implements OnInit {
 
-  constructor(private geolocation: Geolocation, private platform: Platform) { }
+  entries = [];
+
+  constructor(private geolocation: Geolocation, private platform: Platform,
+    private weatherService: WeatherService) { }
 
   ngOnInit() {
     this.platform.ready().then(() => {
       this.geolocation.getCurrentPosition().then(position => {
-        console.log('test: ', position)
+        console.log('test: ', position);
+        this.entries.push({ type: 'geo', val: position.coords, class: 'cold' });
+        this.getWeather(0).subscribe(res => {
+          this.entries[0].weather = res;
+          console.log('weather', res);
+        })
       })
     });
+  }
+
+  getWeather(index) {
+    let info = this.entries[index];
+    return this.weatherService.getCurrentWeather(info);
   }
 
 }
