@@ -70,6 +70,18 @@
         </ion-slide>
       </ion-slides> -->
 
+      <ion-list inset="true" lines="inset" *ngIf="place.nextDays">
+        <ion-item *ngFor="let day of place.nextDays" class="fc-line">
+          <ion-label>
+            {{ day.date | date:'EEEE'}}
+          </ion-label>
+          <span slot="end">
+            {{ day.max }}
+            <p class="temp-min">{{ day.min }}</p>
+          </span>
+        </ion-item>
+      </ion-list>
+
     </ion-slide>
   </ion-slides>
 </ion-content>

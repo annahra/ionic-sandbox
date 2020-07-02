@@ -13,3 +13,9 @@
 .fc-line {
     --border-width: 0 !important;
 }
+
+.temp-min {
+    color: var(--ion-color-medium);
+    display: inline-block;
+    margin-left: 15px;
+}
