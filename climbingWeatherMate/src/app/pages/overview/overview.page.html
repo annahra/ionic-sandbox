@@ -5,7 +5,49 @@
 </ion-header>
 
 <ion-content>
-  <ion-slides pager="true">
+  <ion-slides pager="true" #slides scrollbar="true">
+    <ion-slide *ngFor="let place of entries">
+      <div *ngIf="place.weather">
+        <h3 text-center>{{ place.weather.name }}</h3>
 
+        <p text-center text-capitalize>{{ place.weather.weather[0]?.description }}</p>
+        
+        <h2 text-center>{{ place.weather.main.temp.toFixed() }} °F</h2>
+
+        <ion-list inset="false" lines="inset">
+          <ion-item>
+            <ion-icon name="sunny" slot="start"></ion-icon>
+            <ion-label>
+              Sunrise
+            </ion-label>
+            <p slot="end">{{ place.weather.sys.sunrise*1000 | date:'h:mm a' }}</p>
+          </ion-item>
+
+          <ion-item>
+            <ion-icon name="moon" slot="start"></ion-icon>
+            <ion-label>
+              Sunset
+            </ion-label>
+            <p slot="end">{{ place.weather.sys.sunset*1000 | date:'h:mm a' }}</p>
+          </ion-item>
+
+          <ion-item>
+            <ion-icon name="flame" slot="start"></ion-icon>
+            <ion-label>
+              Humidity
+            </ion-label>
+            <p slot="end">{{ place.weather.main.humidity }}</p>
+          </ion-item>
+
+          <ion-item>
+            <ion-icon name="flag" slot="start"></ion-icon>
+            <ion-label>
+              Wind
+            </ion-label>
+            <p slot="end">{{ place.weather.wind.speed }} mps</p>
+          </ion-item>
+        </ion-list>
+      </div>
+    </ion-slide>
   </ion-slides>
 </ion-content>
