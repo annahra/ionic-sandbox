@@ -21,6 +21,14 @@ export class WeatherService {
     }
   }
 
+  getForecast(info) {
+    if (info.type == 'geo') {
+      return this.http.get(`${this.baseURL}/forecast?lat=${info.val.latitude}&lon=${info.val.longitude}&appid=${this.apiKey}&units=${this.units}`);
+    } else {
+      return this.http.get(`${this.baseURL}/forecast?q=${info.val}&APPID=${this.apiKey}&units=${this.units}`);
+    }
+  }
+
   getUnits() {
     return this.units;
   }

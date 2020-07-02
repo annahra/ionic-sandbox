@@ -10,7 +10,7 @@
       <div *ngIf="place.weather">
         <h3 text-center>{{ place.weather.name }}</h3>
 
-        <p text-center text-capitalize>{{ place.weather.weather[0]?.description }}</p>
+        <p text-center class="ion-text-capitalize">{{ place.weather.weather[0]?.description }}</p>
         
         <h2 text-center tappable (click)="changeUnits()">{{ place.weather.main.temp.toFixed() }} {{ getUnitsString() }}</h2>
 
@@ -54,6 +54,16 @@
           </ion-item>
         </ion-list>
       </div>
+
+      <ion-slides [options]="sliderConfig" *ngIf="place.forecast" class="forecast">
+        <ion-slide *ngFor="let fc of place.forecast?.list" class="ion-text-center">
+          {{ fc.dt*1000 | date:'MM/dd'}}<br>
+          {{ fc.dt*1000 | date:'hh a'}}
+          <img [src]="getWeatherIcon(fc.weather[0]?.icon)">
+          {{ fc.main.temp.toFixed() }} {{ getUnitsString()}}
+        </ion-slide>
+      </ion-slides>
+
     </ion-slide>
   </ion-slides>
 </ion-content>
