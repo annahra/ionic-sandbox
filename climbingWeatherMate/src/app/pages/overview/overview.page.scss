@@ -4,6 +4,12 @@
 
 .forecast {
     height: 18vh;
+
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
 }
 
 .swiper-slide {
@@ -18,4 +24,37 @@
     color: var(--ion-color-medium);
     display: inline-block;
     margin-left: 15px;
+}
+
+.cold {
+    background: #b1dcff;
+}
+
+.medium {
+    background: #aaddbb;
+}
+
+.warm {
+    background: #ec9357;
+}
+
+ion-list {
+    background: rgba(255, 255, 255, 0.53);
+}
+
+
+.page-slide {
+    --bullet-background: #fff;
+    ion-slide {
+        padding-bottom: 50px;
+    }
+}
+
+ion-content {
+    --background: #a0a0a0;
+}
+
+.placeholder-info {
+    margin-top: 30%;
+    color: var(--ion-color-light);
 }

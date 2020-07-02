@@ -54,6 +54,7 @@ export class OverviewPage implements OnInit {
         this.entries[index].weather = res[0];
         this.entries[index].forecast = res[1];
         this.calculateNextDays(index);
+        this.setColorClass(index);
 
         if (this.loading) {
           this.loading = false;
@@ -211,6 +212,26 @@ export class OverviewPage implements OnInit {
       let toKeep = res.filter(entry => entry.id != toRemove);
       this.storage.set(CITIES_KEY, toKeep);
     });
+  }
+
+  setColorClass(index) {
+    if(this.units === 'imperial') {
+      if(this.entries[index].weather.main.temp.toFixed() <= 45) {
+        this.entries[index].class = 'cold';
+      } else if (this.entries[index].weather.main.temp.toFixed() > 45 && this.entries[index].weather.main.temp.toFixed() < 65) {
+        this.entries[index].class = 'medium';
+      } else {
+        this.entries[index].class = 'warm';
+      }
+    } else if (this.units === 'metric') {
+      if (this.entries[index].weather.main.temp.toFixed() <= 0) {
+        this.entries[index].class = 'cold';
+      } else if (this.entries[index].weather.main.temp.toFixed() > 0 && this.entries[index].weather.main.temp.toFixed() < 15) {
+        this.entries[index].class = 'medium';
+      } else {
+        this.entries[index].class = 'warm';
+      }
+    }
   }
 
 }

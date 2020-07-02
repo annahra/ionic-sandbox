@@ -12,8 +12,12 @@
     </ion-fab-button>
   </ion-fab>
 
-  <ion-slides #slides (ionSlideWillChange)="cityChanged()" pager="true">
-    <ion-slide *ngFor="let place of entries; let i = index; ">
+  <div class="placeholder-info ion-text-center" *ngIf="entries.length == 0">
+    <h3>Stuff</h3>
+  </div>
+
+  <ion-slides #slides (ionSlideWillChange)="cityChanged()" pager="true" class="page-slide">
+    <ion-slide *ngFor="let place of entries; let i = index; " [ngClass]="place.class">
       <div *ngIf="place.weather">
         <h3 text-center>{{ place.weather.name }}</h3>
 
@@ -89,7 +93,7 @@
         </ion-item>
       </ion-list>
 
-      <ion-button class="ion-text-center" fill="outline" color="danger" (click)="removeCity(i)" *ngIf="i != 0">
+      <ion-button class="ion-text-center" fill="outline" color="danger" (click)="removeCity(i)" [disabled]="i == 0">
         <ion-icon name="trash" slot="start"></ion-icon>
         Remove City
       </ion-button>
