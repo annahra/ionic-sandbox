@@ -1,0 +1,582 @@
+
+    {
+        "status": "ok",
+        "totalResults": 38,
+        "articles": [{
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Trying To Block A Tell-All By John Bolton Of His White House Days With Trump - NPR",
+            "description": "A week before the scheduled June 23 launch of the former national security advisor's tale of his time serving Trump, the government has filed a lawsuit attempting to hold up the book's release.",
+            "url": "https://www.npr.org/2020/06/16/878992185/justice-department-seeks-to-block-publication-of-john-boltons-white-house-memoir",
+            "urlToImage": "https://media.npr.org/assets/img/2020/06/16/ap_20121061384432_wide-2a49f032209d85a40702dc1255de8f41ef92f2d0.jpg?s=1400",
+            "publishedAt": "2020-06-17T01:56:46Z",
+            "content": "Former national security advisor John Bolton, seen in February, is scheduled to publish a memoir of his time with the Trump administration on June 23, and the Justice Department is trying to block pu… [+5028 chars]"
+        }, {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matt Zapotosky, Abigail Hauslohner, Hannah Knowles, Katie Shepherd",
+            "title": "Suspect arrested after man shot at Albuquerque protest - The Washington Post",
+            "description": "The episode appeared to reflect a phenomenon officials have worried about: Protests over racial injustice can draw a medley of fringe actors.",
+            "url": "https://www.washingtonpost.com/national-security/suspect-arrested-after-man-shot-at-albuquerque-protest/2020/06/16/4ca3c8ec-afeb-11ea-8758-bfd1d045525a_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KP5FB5VQDYI6VBLNKBKCSZZV4U.jpg&w=1440",
+            "publishedAt": "2020-06-17T01:51:14Z",
+            "content": "In New Mexico, shots were fired after confrontations between those who wanted the monument removed and members of a militia group called the New Mexico Civil Guard, several of whom told The Washingto… [+10388 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Kyrie Irving proposed players starting their own league in call urging boycott of NBA season, per report - CBS Sports",
+            "description": "Kyrie Irving continues to share big ideas on the immediate future of the NBA",
+            "url": "https://www.cbssports.com/nba/news/kyrie-irving-proposed-players-starting-their-own-league-in-call-urging-boycott-of-nba-season-per/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/01/12/b492a16c-adaa-44e6-adf0-a8740827d3be/thumbnail/1200x675/bcaa4b029925f9e2bde0424a35dd3f5e/kyrie-irving.jpg",
+            "publishedAt": "2020-06-17T01:19:12Z",
+            "content": "Kyrie Irving has become the leader of the growing movement within the National Basketball Players Association to boycott the remainder of the 2019-20 NBA season, and on Tuesday, he reportedly took pa… [+3301 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'Siesta Key' Star Alex Kompothecras Fired, Alleged Racist Social Media - TMZ",
+            "description": "\"Siesta Key\" star Alex Kompothecras has been fired by MTV.",
+            "url": "https://www.tmz.com/2020/06/16/siesta-key-star-alex-fired-alleged-racist-social-media-posts-mtv/",
+            "urlToImage": "https://imagez.tmz.com/image/75/16by9/2020/06/17/759a17d0a00f42648ad09d6502e30b1a_xl.jpg",
+            "publishedAt": "2020-06-17T01:02:00Z",
+            "content": "\"Siesta Key\" star Alex Kompothecras got fired on what was supposed to be a big day for him and the MTV reality show ... TMZ has learned.\r\nThe show's star, Alex was fired ahead of Tuesday's season pre… [+1200 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "David Smith",
+            "title": "Trump’s ‘woeful’ police reform order leaves systemic racism intact, critics say - The Guardian",
+            "description": "President’s discussion of measure discouraging chokeholds soon shifts to focus on stock market and retail sales",
+            "url": "https://www.theguardian.com/us-news/2020/jun/16/donald-trump-police-reform-executive-order",
+            "urlToImage": "https://i.guim.co.uk/img/media/03dae9d645e76e6060c764bc90e708c7d81beb98/0_267_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59a1b41c1e653c27be9dc7fbd7c38839",
+            "publishedAt": "2020-06-17T00:41:33Z",
+            "content": "Donald Trump faced renewed criticism on Tuesday for what critics said was a woeful attempt at police reform that failed to address systemic racism and fell far short of the demands of Black Lives Mat… [+5670 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Harry Lyles Jr.",
+            "title": "Chuba Hubbard, Mike Gundy and the power of college football players - ESPN",
+            "description": "Whether in college football or society in general, true structural progress is slow. But when stars such as Oklahoma State's Chuba Hubbard speak out, it matters, regardless of the final resolution.",
+            "url": "https://www.espn.com/college-football/story/_/id/29318760/chuba-hubbard-mike-gundy-power-college-football-players",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0602%2Fr704550_1296x729_16%2D9.jpg",
+            "publishedAt": "2020-06-17T00:37:25Z",
+            "content": "Oklahoma State running back Chuba Hubbard found himself in an unenviable position Monday afternoon when he appeared in a video alongside head coach Mike Gundy.\r\nOn one side was the burgeoning empower… [+9352 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Tensions Flare After North Korea Demolished Liaison Office Near Border | NBC News NOW - NBC News",
+            "description": "Relations are even more strained on the Korean Peninsula with North Korea demolishing the inter-Korean Liaison Office near the border of South Korea. The bui...",
+            "url": "https://www.youtube.com/watch?v=nlNyRcE5-BA",
+            "urlToImage": "https://i.ytimg.com/vi/nlNyRcE5-BA/maxresdefault.jpg",
+            "publishedAt": "2020-06-17T00:29:50Z",
+            "content": null
+        }, {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Jeremy Olson",
+            "title": "U.K. study backs HCMC's bullish use of dexamethasone for COVID-19 - Minneapolis Star Tribune",
+            "description": "Twin Cities hospitals had split on experimental use of dexamethasone for COVID-19 patients on ventilators, but the promising results could increase drug usage.",
+            "url": "https://www.startribune.com/u-k-study-backs-hcmc-s-bullish-use-of-steroid-for-covid-19/571304802/",
+            "urlToImage": "https://stmedia.stimg.co/ows_de023a78-f723-4183-9184-97c6d44e642f.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2020-06-17T00:22:30Z",
+            "content": "A British trial showing that a common steroid could reduce deaths in severe COVID-19 cases by one-third was good news for Minnesota physicians who have been battling the infectious disease without a … [+6249 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Senate Judiciary hearing on race and policing practices amid civil unrest - Reuters",
+            "description": "The Senate Judiciary Committee holds a hearing to examine issues involving race and policing practices raised by the death of George Floyd and the civil unre...",
+            "url": "https://www.youtube.com/watch?v=y1QAM_w9DJk",
+            "urlToImage": "https://i.ytimg.com/vi/y1QAM_w9DJk/hqdefault.jpg",
+            "publishedAt": "2020-06-17T00:18:47Z",
+            "content": "The Senate Judiciary Committee holds a hearing to examine issues involving race and policing practices raised by the death of George Floyd and the civil unrest that has swept the U.S."
+        }, {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gordon Kelly",
+            "title": "Google Confirms Serious New Problems For Chrome Users - Forbes",
+            "description": "Chrome has run into serious problems and Google knew they were coming months ago...",
+            "url": "https://www.forbes.com/sites/gordonkelly/2020/06/16/google-chrome-critical-problems-windows-10-warning-update-chrome-browser/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecf9199e7da930006ce4002%2F0x0.jpg",
+            "publishedAt": "2020-06-17T00:10:50Z",
+            "content": "Chrome is already suffering from some visually spectacular graphics problems, but now things just got a whole lot more serious for fans of Googles browser. \r\nGoogle Chrome is running into serious pro… [+2735 chars]"
+        }, {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erik Ortiz",
+            "title": "How police killing of Rayshard Brooks could empower Atlanta's Citizen Review Board - NBC News",
+            "description": "The fatal police shooting in Atlanta of Rayshard Brooks is changing the way the city's citizen watchdog group operates.",
+            "url": "https://www.nbcnews.com/news/us-news/how-police-killing-rayshard-brooks-could-empower-atlanta-s-citizen-n1231204",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_25/3390505/200615-alt-atlanta-rayshard-brooks-wendys-cs-727a_27784ef904fd611b9890ef5caeda2063.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-06-17T00:07:34Z",
+            "content": "The fatal police shooting of Rayshard Brooks in Atlanta is changing how the city's citizen watchdog group operates and, after years of criticism that it is a \"toothless\" body, could further empower i… [+9795 chars]"
+        }, {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jonathan LaPook",
+            "title": "Improving ventilation in buildings could help reduce spread of coronavirus, study says - CBS News",
+            "description": "Experts say crack a window or open a door to help disperse any virus floating in the air indoors.",
+            "url": "https://www.cbsnews.com/news/coronavirus-spread-building-ventilation-covid-19-study/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/04/28/d02bb109-0001-438a-91cc-cb20dcc73be1/thumbnail/1200x630/7851d0870b924266feb5847c5470d4d1/coronavirus-up-close.jpg",
+            "publishedAt": "2020-06-16T23:58:01Z",
+            "content": "There's new information about the simple tools you can use to reduce the spread of the coronavirus. A new study finds that in parts of the U.S. where face masks are mandatory, as many as 450,000 case… [+2166 chars]"
+        }, {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alicia Lee, CNN",
+            "title": "The first photos of Tom Brady in his Buccaneers uniform are here and they're as jarring as you'd expect - CNN",
+            "description": "Patriot fans, you may want to look away.",
+            "url": "https://edition.cnn.com/2020/06/16/sport/tom-brady-buccaneers-uniform-pictures-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200616165353-01-tom-brady-buccaneers-uniform-super-tease.jpg",
+            "publishedAt": "2020-06-16T23:31:35Z",
+            "content": "(CNN)Patriot fans, you may want to look away.\r\nTom Brady, the former beloved quarterback of the New England team, has officially traded in the Patriots blue and white for his new colors of the Tampa … [+912 chars]"
+        }, {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caitlin McFall",
+            "title": "India officials say 20 soldiers killed in China border fighting - Fox News",
+            "description": "A violent clash with Chinese troops in northern India Monday night resulted in the death of 20 Indian soldiers according to Indian government officials.",
+            "url": "https://www.foxnews.com/world/india-officials-soldiers-killed-china-border-fighting",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/f757a4976d4948a3bc9170f04d154513.jpg",
+            "publishedAt": "2020-06-16T23:10:44Z",
+            "content": "A violent clash with Chinese troops in northern India Monday night resulted in the death of 20 Indian soldiers, according to government officials.\r\nThe confrontation that occurred in the Ladakh regio… [+2610 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Boston.com"
+            },
+            "author": "nyt-syndication",
+            "title": "Flushing the toilet may fling coronavirus aerosols all over - Boston.com",
+            "description": "A new study shows how turbulence from a toilet bowl can create a large plume that is potentially infectious to a bathroom’s next visitor.",
+            "url": "https://www.boston.com/news/coronavirus/2020/06/16/flushing-toilet-covid",
+            "urlToImage": "https://www.boston.com/wp-content/uploads/2020/06/acd02e83-997d-4a35-ac84-7e250e1d6700-850x478.jpg",
+            "publishedAt": "2020-06-16T23:10:18Z",
+            "content": "Heres one more behavior to be hyper-aware of in order to prevent coronavirus transmission: what you do after you use the toilet.\r\nScientists have found that in addition to clearing out whatever busin… [+5272 chars]"
+        }, {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Betsy Klein, CNN",
+            "title": "Pence tries to declare coronavirus over as Trump pushes reopening and campaigning - CNN",
+            "description": "Vice President Mike Pence, the leader of the administration's coronavirus task force, is publicly painting a rosy picture of the pandemic through his words and actions amid President Donald Trump's push to reopen the country and resume campaigning.",
+            "url": "https://www.cnn.com/2020/06/16/politics/mike-pence-coronavirus-reopen-campaign/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200510200202-mike-pence-0507-super-tease.jpg",
+            "publishedAt": "2020-06-16T22:24:56Z",
+            "content": "(CNN)Vice President Mike Pence, the leader of the administration's coronavirus task force, is publicly painting a rosy picture of the pandemic through his words and actions amid President Donald Trum… [+9126 chars]"
+        }, {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jacob Kastrenakes",
+            "title": "Apple rejects Hey.com App Store updates, mandating in-app subscription - The Verge",
+            "description": "Apple is rejecting Hey.com iOS app updates from the App Store because the service doesn’t offer an in-app subscription, says Basecamp CTO David Heinemeier Hansson.",
+            "url": "https://www.theverge.com/2020/6/16/21293419/hey-apple-rejection-ios-app-store-dhh-gangsters-antitrust",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/WvU2G1RTGPxK_pjAw3g0sQebxCI=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20034601/Hey_Email_social.jpg",
+            "publishedAt": "2020-06-16T22:20:44Z",
+            "content": "Apple suggests the rejection is not a mistake\r\nImage: Hey.com\r\nApple is threatening to remove Hey.com from the App Store if the ambitious new email service doesnt begin offering an in-app subscriptio… [+3785 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Revealed: Your Top 5 PS5 Event Announcements - Power Ranking - IGN",
+            "description": "Welcome to Power Ranking, a show where YOU the fans get to vote on your favorite things in video games, movies, TV and whatever else the internet is excited ...",
+            "url": "https://www.youtube.com/watch?v=veH9uxZFlCQ",
+            "urlToImage": "https://i.ytimg.com/vi/veH9uxZFlCQ/hqdefault.jpg",
+            "publishedAt": "2020-06-16T22:00:30Z",
+            "content": null
+        }, {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Beijing back in lockdown as city faces new surge of coronavirus cases - BBC News - BBC News",
+            "description": "Beijing is re-imposing restrictions in many parts of the city in response to a new cluster of covid cases. As other countries emerge from months of lockdown ...",
+            "url": "https://www.youtube.com/watch?v=0MANYJ2uV8g",
+            "urlToImage": "https://i.ytimg.com/vi/0MANYJ2uV8g/maxresdefault.jpg",
+            "publishedAt": "2020-06-16T21:57:11Z",
+            "content": "Beijing is re-imposing restrictions in many parts of the city in response to a new cluster of covid cases. As other countries emerge from months of lockdown the new outbreak is a reminder of how diff… [+751 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "FBI says suspected shooter \"came to Oakland to kill cops\" - CBS News",
+            "description": "The FBI said Steven Carrillo and an accomplice traveled to the Oakland federal courthouse on May 29 amid protests over the death of George Floyd to kill law ...",
+            "url": "https://www.youtube.com/watch?v=9j6hfTW0E8M",
+            "urlToImage": "https://i.ytimg.com/vi/9j6hfTW0E8M/maxresdefault.jpg",
+            "publishedAt": "2020-06-16T21:56:13Z",
+            "content": null
+        }, {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Ina Fried",
+            "title": "AT&T confirms thousands of job cuts, 250 store closings - Axios",
+            "description": "AT&T plans to close 250 stores, according to the Communications Workers of America.",
+            "url": "https://www.axios.com/att-confirms-thousands-of-job-cuts-250-store-closings-8b018604-86c6-4947-a7c2-c31d9abad2a6.html",
+            "urlToImage": "https://images.axios.com/qGAIMwXNxiDWXm-tTOl7jXyt6ro=/fit-in/1920x1920/2020/06/16/1592331421570.jpg",
+            "publishedAt": "2020-06-16T21:55:16Z",
+            "content": "AT&amp;T confirmed to Axios it is planning widespread job cuts that include managers and executives, in addition to 3,400 technician and clerical jobs. It will also close 250 retail stores, impacting… [+2073 chars]"
+        }, {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mark Morales and Eric Levenson, CNN",
+            "title": "New York City crime stats show spike in burglaries and murders so far this year - CNN",
+            "description": "Murder, burglary and grand larceny auto crimes have spiked in New York City this past month compared to the same period last year, while rape, robbery and grand larceny crimes have declined, according to New York Police Department statistics.",
+            "url": "https://www.cnn.com/2020/06/16/us/new-york-city-crime/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200615161209-nypd-presser-0615-super-tease.jpg",
+            "publishedAt": "2020-06-16T21:54:59Z",
+            "content": "(CNN)Murder, burglary and grand larceny auto crimes have spiked in New York City this past month compared to the same period last year, while rape, robbery and grand larceny crimes have declined, acc… [+3926 chars]"
+        }, {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Manu Raju and Ali Zaslav, CNN",
+            "title": "GOP senator: Proposal to remove Confederate names from military bases 'picks on South unfairly' - CNN",
+            "description": "A Senate amendment to remove the names of Confederate leaders on military property \"picks on the South unfairly,\" a GOP senator said Tuesday, the latest sign that President Donald Trump's opposition to the plan has opened up an uncomfortable election-year deb…",
+            "url": "https://www.cnn.com/2020/06/16/politics/john-kennedy-confederate-names-military-basis-reaction/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170504130950-john-kennedy-louisiana-0403-super-tease.jpg",
+            "publishedAt": "2020-06-16T21:43:20Z",
+            "content": "(CNN)A Senate amendment to remove the names of Confederate leaders on military property \"picks on the South unfairly,\" a GOP senator said Tuesday, the latest sign that President Donald Trump's opposi… [+4961 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Brett Malec",
+            "title": "Kylie Jenner & Stormi Webster Share Their First Vogue Cover (and It Was Shot on an iPhone) - E! Online",
+            "description": "How Kylie Jenner and daughter Stormi Webster graced the cover of Vogue Czechoslovakia during self-isolation!",
+            "url": "https://www.eonline.com/news/1161713/kylie-jenner-stormi-webster-share-their-first-vogue-cover-and-it-was-shot-on-an-iphone",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202026/rs_600x600-200306114926-stormi3.jpg?fit=around|1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2020-06-16T21:40:00Z",
+            "content": "Like mother, like daughter.\r\nOn Tuesday, Kylie Jenner took to Instagram to reveal her Vogue Czechoslovakia cover alongside 2-year-old daughter, Stormi Webster. And, as the Kylie Cosmetics mogul share… [+831 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "Felson Sajonas",
+            "title": "Scientists Say There Are at Least 36 Intelligent Civilizations in Our Milky Way Galaxy - HYPEBEAST",
+            "description": "They say it also takes around five billion years for intelligent life to form on other planets.",
+            "url": "https://hypebeast.com/2020/6/scientists-36-intelligent-civilizations-in-galaxy",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fmilky-way-nasa-tw-tw.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2020-06-16T21:39:00Z",
+            "content": "According to a group of scientists at the University of Nottingham, there could be intelligent life beyond earth within our galaxy as reported by Forbes. They point out that it’s possible that at lea… [+2019 chars]"
+        }, {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Daniel Canova",
+            "title": "Several MLB owners don't want 2020 season to be played, reports say - Fox News",
+            "description": "Several MLB owners are against the idea of having a season in 2020, according to reports.",
+            "url": "https://www.foxnews.com/sports/several-mlb-owners-dont-want-2020-season",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Citi-Field.jpg",
+            "publishedAt": "2020-06-16T21:15:39Z",
+            "content": "Several MLB owners are against the idea of having a season in 2020, according to reports.\r\nThere are six owners who don’t want a season, according to SNY, and The Athletic reported that it could be a… [+2258 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X staff",
+            "title": "New ideas in the search for dark matter - Phys.org",
+            "description": "Since the 1980s, researchers have been running experiments in search of particles that make up dark matter, an invisible substance that permeates our galaxy and universe. Coined dark matter because it gives off no light, this substance, which constitutes more…",
+            "url": "https://phys.org/news/2020-06-ideas-dark.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/thinkingsmal.jpg",
+            "publishedAt": "2020-06-16T20:37:12Z",
+            "content": "Since the 1980s, researchers have been running experiments in search of particles that make up dark matter, an invisible substance that permeates our galaxy and universe. Coined dark matter because i… [+5121 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Thania Benios",
+            "title": "Research reveals the chemistry behind the bombardier beetle's extraordinary firepower - Phys.org",
+            "description": "If you want to see one of the wonders of the natural world, just startle a bombardier beetle. But be careful: when the beetles are scared, they flood an internal chamber with a complex cocktail of aromatic chemicals, triggering a cascade of chemical reaction …",
+            "url": "https://phys.org/news/2020-06-reveals-chemistry-bombardier-beetle-extraordinary.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2020/15-researchreve.jpg",
+            "publishedAt": "2020-06-16T20:37:05Z",
+            "content": "If you want to see one of the wonders of the natural world, just startle a bombardier beetle. But be careful: when the beetles are scared, they flood an internal chamber with a complex cocktail of ar… [+4637 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "By David Lawrance For Dailymail.com Heidi Parker For Dailymail.com",
+            "title": "Lance Bass predicts former pal Jax Taylor will be fired by Bravo - Daily Mail",
+            "description": "'[Jax is] stepping down from [our] Just Add X [business venture]. We can't be involved and associated with any of this going down. We have to do the right thing,' said the Bye Bye Bye hitmaker.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-8427247/Lance-Bass-predicts-former-pal-Jax-Taylor-fired-Bravo.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2020/06/16/15/29673724-0-image-a-8_1592318382610.jpg",
+            "publishedAt": "2020-06-16T20:32:13Z",
+            "content": "Lance Bass has claimed he's parting ways with his Just Add X business partner Jax Taylor amid controversy over the reality TV star's past comments.\r\nThe NSYNC alum, 41, made the disclosure on his Dai… [+11938 chars]"
+        }, {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Laura Noonan",
+            "title": "US banks paid nearly twice as much in dividends as they earned - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/6d5fe3f5-9b88-44de-a264-ab18076ff5d4",
+            "urlToImage": null,
+            "publishedAt": "2020-06-16T20:28:28Z",
+            "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+        }, {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "See Earth and Venus from Mars in amazing photos from NASA's Curiosity rover - Space.com",
+            "description": "The six-wheeled robot has given us a unique perspective on our home planet.",
+            "url": "https://www.space.com/mars-rover-curiosity-earth-venus-photo.html",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SgoWh45aBbXcJkwn7YZEb6-1200-80.jpg",
+            "publishedAt": "2020-06-16T19:11:00Z",
+            "content": "NASA's Curiosity rover\r\n took a break from assessing ancient Martian habitability to gaze up at the Red Planet sky where it found Earth.\r\nThrough the dusty Martian atmosphere\r\n, the car-size rover sp… [+3443 chars]"
+        }, {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Aris Folley",
+            "title": "Franklin Graham sounds off on SCOTUS ruling over LGBTQ worker rights | TheHill - The Hill",
+            "description": "Evangelical leader Franklin Graham sounded off this week on the Supreme Court’s recent ruling that gay and transgender people are protected against employment discrimination under existing civil rights laws and said he believes the decision “erodes religious …",
+            "url": "https://thehill.com/regulation/court-battles/502997-franklin-graham-sounds-off-on-scotus-ruling-over-lgbtq-worker-rights",
+            "urlToImage": "https://thehill.com/sites/default/files/grahamfranklin_052918getty.jpg",
+            "publishedAt": "2020-06-16T19:02:17Z",
+            "content": "Evangelical leader Franklin Graham sounded off this week on the Supreme Courts recent ruling that gay and transgender people are protected against employment discrimination under existing civil right… [+3956 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Michael Schneider",
+            "title": "’30 Rock’ Returns to NBC With New Hour-Long Episode That Will Double as an Upfront Special - Variety",
+            "description": "NBC is making it 2006 again, through science or magic: “30 Rock” is returning to the Peacock next month for a new, original remotely-produced event that will also double as an upfront special for the NBCUniversal properties. The special, which will air Thursd…",
+            "url": "https://variety.com/2020/tv/news/30-rock-nbc-reunion-episode-nbcuniversal-upfront-1234637182/",
+            "urlToImage": "https://pmcvariety.files.wordpress.com/2018/02/30-rock.jpg?w=1000",
+            "publishedAt": "2020-06-16T19:00:00Z",
+            "content": "NBC is making it 2006 again, through science or magic: “30 Rock” is returning to the Peacock next month for a new, original remotely-produced event that will also double as an upfront special for the… [+3450 chars]"
+        }, {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Audrey McNamara",
+            "title": "Coronavirus model once used by White House now predicts 200,000 U.S. deaths by October - CBS News",
+            "description": "The prediction went up by more than 30,000 since last week.",
+            "url": "https://www.cbsnews.com/news/coronavirus-white-house-model-prediction-200000-deaths-october/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/06/16/b451e6d2-3c59-4abe-9064-a93c0b802366/thumbnail/1200x630/1f659190b4abf1d7a8bd203e62207784/gettyimages-1222831523.jpg",
+            "publishedAt": "2020-06-16T18:16:32Z",
+            "content": "A coronavirus model once used by the White House now projects more than 200,000 Americans could die of COVID-19 by October 1. The prediction went up by more than 30,000 since last week. \r\nAs of Tuesd… [+4489 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "https://www.facebook.com/arolwright",
+            "title": "Some Android apps on F-Droid will eventually lose access to Google Play purchases - XDA Developers",
+            "description": "Users downloading apps from F-Droid may eventually run into a small issue: They might not be able to use Google Play billing anymore.",
+            "url": "https://www.xda-developers.com/f-droid-android-apps-google-play-purchases/",
+            "urlToImage": "https://www.xda-developers.com/files/2017/01/F-Droid-Feature-Image-XDA-Portal-Red.png",
+            "publishedAt": "2020-06-16T17:33:37Z",
+            "content": "If you’re interested in running free and open-source Android applications, then you’ve probably heard of F-Droid. While its limited catalog of apps makes it far from an actual alternative to the Goog… [+2271 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "CyberScoop"
+            },
+            "author": "Jeff Stone",
+            "title": "No, that wasn't a DDoS attack, just a cellular outage - CyberScoop",
+            "description": "No, the T-mobile outage was not, in fact, a DDoS attack.",
+            "url": "https://www.cyberscoop.com/ddos-attack-anonymous-tmobile/",
+            "urlToImage": "https://www.cyberscoop.com/wp-content/uploads/2020/06/GettyImages-1004848390-Cropped.jpg",
+            "publishedAt": "2020-06-16T14:37:21Z",
+            "content": "Written by Jeff Stone Jun 16, 2020 | CYBERSCOOPIf Anonymous actually knows about a cyberattack that knocked telecommunications services throughout the U.S. offline Monday, then its members arent sayi… [+2693 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "Mike Peterson",
+            "title": "Apple's 'drumroll begins' for 5G iPhone 12 super-cycle, says analyst - AppleInsider",
+            "description": "Investment bank Wedbush is predicting that the \"iPhone 12\" will launch at about the same time that the iPhone X did, and despite coronavirus challenges, 5G will induce a super-cycle for Apple in 2020 and 2021.",
+            "url": "https://appleinsider.com/articles/20/06/16/apples-drumroll-begins-for-5g-iphone-12-super-cycle-says-analyst",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/36235-67218-49025721116_2ca1f4466e_k(1)-xl.jpg",
+            "publishedAt": "2020-06-16T14:28:23Z",
+            "content": "Investment bank Wedbush is predicting that the \"iPhone 12\" will launch at about the same time that the iPhone X did, and despite coronavirus challenges, 5G will induce a super-cycle for Apple in 2020… [+2367 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "AOL"
+            },
+            "author": "Rachel Kleinman",
+            "title": "Under 20s around half as susceptible to COVID-19: Study - AOL",
+            "description": "People under 20 are around half as susceptible to COVID-19 as people aged 20 or above, according to research published on Tuesday.",
+            "url": "https://www.aol.com/article/news/2020/06/16/under-20s-around-half-as-susceptible-to-covid-19-study-finds/24525494/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/5760x3778+0+0/resize/1028x675!/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F77bc86c0-afca-11ea-bfa7-8c32ab8b50e7",
+            "publishedAt": "2020-06-16T12:11:36Z",
+            "content": "LONDON, June 16 (Reuters) - People under 20 are around half as susceptible to COVID-19 as people aged 20 or above, according to research published on Tuesday, and clinical symptoms of the pandemic di… [+16842 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "By David Lawrance For Dailymail.com Heidi Parker For Dailymail.com",
+            "title": "Lance Bass predicts former pal Jax Taylor will be fired by Bravo - Daily Mail",
+            "description": "'[Jax is] stepping down from [our] Just Add X [business venture]. We can't be involved and associated with any of this going down. We have to do the right thing,' said the Bye Bye Bye hitmaker.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-8427247/Lance-Bass-predicts-former-pal-Jax-Taylor-fired-Bravo.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2020/06/16/15/29673724-0-image-a-8_1592318382610.jpg",
+            "publishedAt": "2020-06-16T20:32:13Z",
+            "content": "Lance Bass has claimed he's parting ways with his Just Add X business partner Jax Taylor amid controversy over the reality TV star's past comments.\r\nThe NSYNC alum, 41, made the disclosure on his Dai… [+11938 chars]"
+        }, {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Laura Noonan",
+            "title": "US banks paid nearly twice as much in dividends as they earned - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/6d5fe3f5-9b88-44de-a264-ab18076ff5d4",
+            "urlToImage": null,
+            "publishedAt": "2020-06-16T20:28:28Z",
+            "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+        }, {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "See Earth and Venus from Mars in amazing photos from NASA's Curiosity rover - Space.com",
+            "description": "The six-wheeled robot has given us a unique perspective on our home planet.",
+            "url": "https://www.space.com/mars-rover-curiosity-earth-venus-photo.html",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/SgoWh45aBbXcJkwn7YZEb6-1200-80.jpg",
+            "publishedAt": "2020-06-16T19:11:00Z",
+            "content": "NASA's Curiosity rover\r\n took a break from assessing ancient Martian habitability to gaze up at the Red Planet sky where it found Earth.\r\nThrough the dusty Martian atmosphere\r\n, the car-size rover sp… [+3443 chars]"
+        }, {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Aris Folley",
+            "title": "Franklin Graham sounds off on SCOTUS ruling over LGBTQ worker rights | TheHill - The Hill",
+            "description": "Evangelical leader Franklin Graham sounded off this week on the Supreme Court’s recent ruling that gay and transgender people are protected against employment discrimination under existing civil rights laws and said he believes the decision “erodes religious …",
+            "url": "https://thehill.com/regulation/court-battles/502997-franklin-graham-sounds-off-on-scotus-ruling-over-lgbtq-worker-rights",
+            "urlToImage": "https://thehill.com/sites/default/files/grahamfranklin_052918getty.jpg",
+            "publishedAt": "2020-06-16T19:02:17Z",
+            "content": "Evangelical leader Franklin Graham sounded off this week on the Supreme Courts recent ruling that gay and transgender people are protected against employment discrimination under existing civil right… [+3956 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Michael Schneider",
+            "title": "’30 Rock’ Returns to NBC With New Hour-Long Episode That Will Double as an Upfront Special - Variety",
+            "description": "NBC is making it 2006 again, through science or magic: “30 Rock” is returning to the Peacock next month for a new, original remotely-produced event that will also double as an upfront special for the NBCUniversal properties. The special, which will air Thursd…",
+            "url": "https://variety.com/2020/tv/news/30-rock-nbc-reunion-episode-nbcuniversal-upfront-1234637182/",
+            "urlToImage": "https://pmcvariety.files.wordpress.com/2018/02/30-rock.jpg?w=1000",
+            "publishedAt": "2020-06-16T19:00:00Z",
+            "content": "NBC is making it 2006 again, through science or magic: “30 Rock” is returning to the Peacock next month for a new, original remotely-produced event that will also double as an upfront special for the… [+3450 chars]"
+        }, {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Audrey McNamara",
+            "title": "Coronavirus model once used by White House now predicts 200,000 U.S. deaths by October - CBS News",
+            "description": "The prediction went up by more than 30,000 since last week.",
+            "url": "https://www.cbsnews.com/news/coronavirus-white-house-model-prediction-200000-deaths-october/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/06/16/b451e6d2-3c59-4abe-9064-a93c0b802366/thumbnail/1200x630/1f659190b4abf1d7a8bd203e62207784/gettyimages-1222831523.jpg",
+            "publishedAt": "2020-06-16T18:16:32Z",
+            "content": "A coronavirus model once used by the White House now projects more than 200,000 Americans could die of COVID-19 by October 1. The prediction went up by more than 30,000 since last week. \r\nAs of Tuesd… [+4489 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "https://www.facebook.com/arolwright",
+            "title": "Some Android apps on F-Droid will eventually lose access to Google Play purchases - XDA Developers",
+            "description": "Users downloading apps from F-Droid may eventually run into a small issue: They might not be able to use Google Play billing anymore.",
+            "url": "https://www.xda-developers.com/f-droid-android-apps-google-play-purchases/",
+            "urlToImage": "https://www.xda-developers.com/files/2017/01/F-Droid-Feature-Image-XDA-Portal-Red.png",
+            "publishedAt": "2020-06-16T17:33:37Z",
+            "content": "If you’re interested in running free and open-source Android applications, then you’ve probably heard of F-Droid. While its limited catalog of apps makes it far from an actual alternative to the Goog… [+2271 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "CyberScoop"
+            },
+            "author": "Jeff Stone",
+            "title": "No, that wasn't a DDoS attack, just a cellular outage - CyberScoop",
+            "description": "No, the T-mobile outage was not, in fact, a DDoS attack.",
+            "url": "https://www.cyberscoop.com/ddos-attack-anonymous-tmobile/",
+            "urlToImage": "https://www.cyberscoop.com/wp-content/uploads/2020/06/GettyImages-1004848390-Cropped.jpg",
+            "publishedAt": "2020-06-16T14:37:21Z",
+            "content": "Written by Jeff Stone Jun 16, 2020 | CYBERSCOOPIf Anonymous actually knows about a cyberattack that knocked telecommunications services throughout the U.S. offline Monday, then its members arent sayi… [+2693 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "Mike Peterson",
+            "title": "Apple's 'drumroll begins' for 5G iPhone 12 super-cycle, says analyst - AppleInsider",
+            "description": "Investment bank Wedbush is predicting that the \"iPhone 12\" will launch at about the same time that the iPhone X did, and despite coronavirus challenges, 5G will induce a super-cycle for Apple in 2020 and 2021.",
+            "url": "https://appleinsider.com/articles/20/06/16/apples-drumroll-begins-for-5g-iphone-12-super-cycle-says-analyst",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/36235-67218-49025721116_2ca1f4466e_k(1)-xl.jpg",
+            "publishedAt": "2020-06-16T14:28:23Z",
+            "content": "Investment bank Wedbush is predicting that the \"iPhone 12\" will launch at about the same time that the iPhone X did, and despite coronavirus challenges, 5G will induce a super-cycle for Apple in 2020… [+2367 chars]"
+        }, {
+            "source": {
+                "id": null,
+                "name": "AOL"
+            },
+            "author": "Rachel Kleinman",
+            "title": "Under 20s around half as susceptible to COVID-19: Study - AOL",
+            "description": "People under 20 are around half as susceptible to COVID-19 as people aged 20 or above, according to research published on Tuesday.",
+            "url": "https://www.aol.com/article/news/2020/06/16/under-20s-around-half-as-susceptible-to-covid-19-study-finds/24525494/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/5760x3778+0+0/resize/1028x675!/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F77bc86c0-afca-11ea-bfa7-8c32ab8b50e7",
+            "publishedAt": "2020-06-16T12:11:36Z",
+            "content": "LONDON, June 16 (Reuters) - People under 20 are around half as susceptible to COVID-19 as people aged 20 or above, according to research published on Tuesday, and clinical symptoms of the pandemic di… [+16842 chars]"
+        }]
+    }
