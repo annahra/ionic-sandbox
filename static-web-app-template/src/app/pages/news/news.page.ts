@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs';
+import { ScreenSizeService } from '../../services/screen-size.service';
 
 @Component({
   selector: 'app-news',
@@ -7,7 +9,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NewsPage implements OnInit {
 
-  constructor() { }
+  isDesktop: Observable<boolean>;
+
+  constructor(
+    private screenSizeService: ScreenSizeService
+  ) {
+    this.isDesktop = this.screenSizeService.isDesktopView();
+   }
 
   ngOnInit() {
   }

@@ -1,4 +1,4 @@
-<ion-header>
+<ion-header *ngIf="!(isDesktop | async)">
   <ion-toolbar color="primary">
     <ion-title>Profile</ion-title>
   </ion-toolbar>

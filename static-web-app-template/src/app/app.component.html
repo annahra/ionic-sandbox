@@ -1,3 +1,10 @@
-<ion-app>
+<ion-app *ngIf="!isDesktop">
   <ion-router-outlet></ion-router-outlet>
+</ion-app>
+
+<ion-app *ngIf="isDesktop" class="desktop">
+  <ion-router-outlet class="desktop-wrapper"></ion-router-outlet>
+  <div class="footer">
+    <span>Footer</span>
+  </div>
 </ion-app>
