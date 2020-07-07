@@ -1,0 +1,7 @@
+{
+  "name": "static-web-app-template",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
