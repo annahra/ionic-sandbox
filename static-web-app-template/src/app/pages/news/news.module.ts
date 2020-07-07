@@ -7,13 +7,15 @@ import { IonicModule } from '@ionic/angular';
 import { NewsPageRoutingModule } from './news-routing.module';
 
 import { NewsPage } from './news.page';
+import { SharedComponentsModule } from 'src/app/components/shared-components.module';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    NewsPageRoutingModule
+    NewsPageRoutingModule,
+    SharedComponentsModule
   ],
   declarations: [NewsPage]
 })

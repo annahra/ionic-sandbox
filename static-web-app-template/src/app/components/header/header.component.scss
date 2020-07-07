@@ -1,0 +1,32 @@
+.header-image {
+    background-color: black;
+    padding: 25px;
+    img {
+        width: 250px;
+    }
+}
+
+ion-toolbar {
+    --background: #385f8e;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+}
+
+.link {
+    --color: var(--ion-color-light);
+}
+
+.active-link {
+    --background: var(--ion-color-primary);
+}
+
+ion-button {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    --border-radius: 0px;
+    height: 70px;
+    font-weight: 600;
+    text-transform: uppercase;
+    --padding-start: 30px;
+    --padding-end: 30px;
+}

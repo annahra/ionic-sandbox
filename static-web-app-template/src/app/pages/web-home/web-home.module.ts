@@ -7,13 +7,15 @@ import { IonicModule } from '@ionic/angular';
 import { WebHomePageRoutingModule } from './web-home-routing.module';
 
 import { WebHomePage } from './web-home.page';
+import { SharedComponentsModule } from '../../components/shared-components.module';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    WebHomePageRoutingModule
+    WebHomePageRoutingModule,
+    SharedComponentsModule
   ],
   declarations: [WebHomePage]
 })
