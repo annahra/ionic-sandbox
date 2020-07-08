@@ -25,9 +25,11 @@ export class NewsPage implements OnInit {
     this.isDesktop = this.screenSizeService.isDesktopView();
    }
 
-  ngOnInit() {
+  getPlatforms() {
     this.platforms = this.plt.platforms();
+  }
 
+  ngOnInit() {
     this.titleService.setTitle('Generic Title');
     this.metaService.updateTag({ name: 'description', content: 'Ionic everywhere news page' });
         // Twitter
